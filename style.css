@@ -315,7 +315,7 @@ h4{
   padding-top: 10px;
   border-radius: 10px;
   border: 10px solid green;
-  font-family: 'Monoton', cursive;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 17px;
   padding-bottom: 35px;
 }
@@ -342,7 +342,7 @@ h4{
     border-radius: 10px;
     margin: 10px;
     margin-left: 80px;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     margin-top: 50px;
   }
 
@@ -504,7 +504,7 @@ h4{
   font-size: 20px;
   padding-bottom: 35px;
   margin-bottom: 50px;
-  
+}
 
 button{
   block-size: 50px;
@@ -515,8 +515,7 @@ button{
   text-decoration: none;
   font-size: 18px;
   border-radius: 10px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
- }
+  font-family: 'Courier New', Courier, monospace;
   float: left;
   margin: 30px;
   margin-top: 0;
@@ -576,7 +575,7 @@ h5{
   color: purple;
   font-size: 30px;
   margin-top: 30px;
-  font-family: 'Rubik Vinyl', cursive;
+  font-family: 'Courier New', Courier, monospace;
  }
  
  table{
