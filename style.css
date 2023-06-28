@@ -21,7 +21,7 @@ h2{
   color: black;
   text-align: center;
   border-radius: 10px;
-  border: 15px solid palevioletred;
+  border: 15px solid coral;
   height: 150px;
   
   
@@ -41,7 +41,7 @@ h4{
   margin-top: 8.5%;
   color: #fff;
   padding-left: 25%;
-  background: palevioletred;
+  background: coral;
   height: 300px;
   padding-top: 90px;
   border-radius: 10px;
@@ -61,14 +61,14 @@ strong{
   text-align: center;
   margin-bottom: 30px;
   color: purple;
-  font-family: 'Rubik Vinyl', cursive;
+  font-family: 'Times New Roman', Times, serif;
   
 }
 
 
 header{
   position: fixed;
-  background: palevioletred;
+  background: coral;
   padding-top: 0;
   margin-top: 0;
   width: 100%;
@@ -82,7 +82,7 @@ header{
 
 nav{
   float: right;
-  padding-left: 650px;
+  padding-left: 600px;
   
   
 }
@@ -157,7 +157,7 @@ h2{
   color: black;
   text-align: center;
   border-radius: 20px;
-  border: 5px solid palevioletred;
+  border: 5px solid coral;
   font-family: Space Grotesk;
   
   
@@ -273,7 +273,7 @@ footer{
  
  header{
   
-  background: palevioletred;
+  background: coral;;
   padding-top: 0;
   margin-top: 0;
   width: 100%;
@@ -301,7 +301,7 @@ h2{
   color: black;
   text-align: center;
   border-radius: 10px;
-  border: 15px solid palevioletred;
+  border: 15px solid coral;;
   height: 150px;
   
   
@@ -321,7 +321,7 @@ h4{
   margin-top: 15.5%;
   color: #fff;
   padding-left: 5%;
-  background: palevioletred;
+  background: coral;;
   height: 320px;
   padding-top: 10px;
   border-radius: 10px;
@@ -464,7 +464,7 @@ h4{
   
   header{
     position: fixed;
-    background: palevioletred;
+    background: coral;
     padding-top: 0;
     margin-top: 0;
     width: 414;
@@ -489,7 +489,7 @@ h2{
   color: black;
   text-align: center;
   border-radius: 10px;
-  border: 15px solid palevioletred;
+  border: 15px solid coral;
   height: 150px;
 
 
@@ -508,7 +508,7 @@ h4{
   margin-top: 20.5%;
   color: #fff;
   padding-left: 5%;
-  background: palevioletred;
+  background: coral;
   height: 100%;
   padding-top: 10px;
   border-radius: 10px;
@@ -600,7 +600,7 @@ h5{
  }
  nav{
   float: right;
-  padding-left: 30%;
+  padding-left: 25%;
 
  }
  
