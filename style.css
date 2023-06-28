@@ -56,6 +56,16 @@ strong{
   color: green;
 }
 
+#rd{
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: purple;
+  font-family: 'Rubik Vinyl', cursive;
+  
+}
+
+
 header{
   position: fixed;
   background: palevioletred;
@@ -72,7 +82,7 @@ header{
 
 nav{
   float: right;
-  padding-left: 730px;
+  padding-left: 650px;
   
   
 }
@@ -119,6 +129,7 @@ nav li a:hover{
 }
 
 button{
+   
   block-size: 50px;
   width: 300px;
   cursor: pointer;
@@ -268,7 +279,7 @@ footer{
   width: 100%;
   top: 0;
   display: flex;
-  border-radius: 10px;
+  
   
 
   
@@ -459,7 +470,7 @@ h4{
     width: 414;
     top: 0;
     display: flex;
-    border-radius: 10px;
+    
   }
 
 

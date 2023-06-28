@@ -1,0 +1,17 @@
+@media screen and (max-width: 414px) 
+{
+h1{
+  font-family: 'Rubik Vinyl', cursive;
+  color: purple;
+  margin-left: 5px;
+  margin-top: 60px;
+
+}
+h3{
+  padding-left: 80px;
+  border:10px solid palevioletred;
+  font-family: 'Monoton', cursive;
+  padding-bottom: 70px;
+  padding-top: 50px;
+}
+}
