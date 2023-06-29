@@ -803,6 +803,9 @@ h5{
 
 }
 
+
+
+
 @media screen and (max-width: 428px) 
 {
   .wrapper-main{
@@ -911,7 +914,7 @@ button{
 
 footer{
   position: relative;
-  width: 390px;
+  width: 428px;
   padding-bottom: 100px;
   margin-top: 0px;
   background: #000;
